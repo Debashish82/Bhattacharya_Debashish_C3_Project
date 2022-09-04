@@ -65,7 +65,7 @@ class RestaurantTest {
     }
     //<<<<<<<<<<<<<<<<<<<<<<<MENU>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-    //Failing Test case for calculateorderValue Method//
+    //FailingPassing Test case for calculateorderValue Method//
     @Test
     public void select_item_from_list_should_return_order_value(){
         int orderValue;

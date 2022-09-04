@@ -72,7 +72,7 @@ public class Restaurant {
         return name;
     }
 //Implementing Feature to calculate Order Value
-/*
+
     public int calculateOrderValue(List<String> selectedItems){
         int orderValue = 0;
 
@@ -82,5 +82,5 @@ public class Restaurant {
         return orderValue;
 
     }
-*/
+
 }

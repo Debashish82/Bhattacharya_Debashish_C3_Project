@@ -65,8 +65,7 @@ class RestaurantTest {
     }
     //<<<<<<<<<<<<<<<<<<<<<<<MENU>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-    //Failing Test case for calculateorderValue method Commenting for 1st Commit//
-/*
+    //Failing Test case for calculateorderValue Method//
     @Test
     public void select_item_from_list_should_return_order_value(){
         int orderValue;
@@ -74,5 +73,5 @@ class RestaurantTest {
         orderValue = restaurant.calculateOrderValue(selectedItemNames) ;
         assertEquals(388, orderValue);
     }
-*/
+
 }

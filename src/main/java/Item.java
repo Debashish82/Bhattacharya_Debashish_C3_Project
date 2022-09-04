@@ -17,8 +17,8 @@ public class Item {
                 + "\n"
                 ;
     }
-/* #Commenting for 1st Commit
+
     public int getPrice(){return price;}
-*/
+
 }
 
